@@ -3,7 +3,7 @@
 </p>
 
 # PRISM 🔺
-### *One Idea. Six Perspectives. One Ground Truth.*
+### *One Idea. Six Perspectives. One Ground Truth..*
 
 <p align="center">
   <img src="https://img.shields.io/badge/Google_Gemini-2.0_Flash-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini 2.0 Flash" />
