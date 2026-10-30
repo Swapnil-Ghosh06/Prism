@@ -142,7 +142,7 @@ To prove PRISM's objectivity, we evaluated 4 diverse business concepts across hi
   1. **Merchant-Secured Supply Chain Factoring:** Transition from unsecured consumer loans to financing TikTok Shop / Shopee merchant inventory receivables with automatic platform escrow lockup. Reduces non-performing loans from 38% to <3.5%.
   2. **Bank-Partnered Lending-as-a-Service (LaaS):** License AI credit scoring algorithms to licensed Tier-2 rural banks rather than holding balance-sheet loan risk.
 
-### Scenario 3: Rural Telehealth AI (Regulated HealthTech)
+### Scenario 3: Rural Telehealth AI (Regulated HealthTech).
 - **Composite Readiness Score:** `81 / 100` *(Confidence: Fundable with Compliance Stipulations)*
 - **Key Breakthroughs:**
   - *CTO:* Quantized ONNX triage models (<120MB) executing locally on Android NPUs, enabling ASHA workers to triage patients in 2G/intermittent connectivity zones.
